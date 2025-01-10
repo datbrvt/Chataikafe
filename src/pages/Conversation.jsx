@@ -16,7 +16,7 @@ import { usePromptPreloader } from '../hooks/usePromptPleloader';
  */
 import PageTitle from '../components/PageTitle';
 import UserPrompt from '../components/UserPrompt';
-import AiResponse from '../components/Airesponse';
+import AiResponse from '../components/AiResponse';
 import PromptPreloader from '../components/PromptPreloader';
 
 const Conversation = () => {
