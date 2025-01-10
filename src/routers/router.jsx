@@ -21,7 +21,7 @@ import RootError from '../pages/RootError.jsx';
  * Loader
  */
 
-import registerLoader from './loaders/registerloader.js';
+import registerLoader from './loaders/registerLoader.js';
 import loginLoader from './loaders/loginLoader.js';
 import resetLinkLoader from './loaders/resetLinkLoader.js';
 import resetPasswordLoader from './loaders/resetPasswordLoader.js';
