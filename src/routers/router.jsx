@@ -9,7 +9,7 @@ import { createBrowserRouter } from 'react-router-dom';
  */
 
 import App from '../App.jsx';
-import Register from '../pages/register.jsx';
+import Register from '../pages/Register.jsx';
 import Login from '../pages/Login.jsx';
 import ResetLink from '../pages/ResetLink.jsx';
 import ResetPassword from '../pages/ResetPassword.jsx';
