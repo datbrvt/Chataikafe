@@ -9,7 +9,7 @@ import PropTypes from "prop-types"
  */
 
 import UserPrompt from "./UserPrompt"
-import AiResponse from "./Airesponse"
+import AiResponse from "./AiResponse"
 import Skeleton from "./Skeleton"
 
 const PromptPreloader = ({promptValue}) => {
